@@ -1,5 +1,16 @@
+## Social and Economic Indicators
 
-
-
-<link rel="shortcut icon" href="/favicon-v2.ico" />
-<link rel="icon" sizes="16x16 32x32" href="/favicon-v2.ico">
+1. [Population](https://webpagestathub.s3.us-east-2.amazonaws.com/P.html)
+2. [Population Growth](https://webpagestathub.s3.us-east-2.amazonaws.com/PG.html)
+3. [Population Density]()
+4. [Fertility Rate]()
+5. [Net migration]()
+6. [Life expectancy at birth (Male)]()
+7. [Life expectancy at birth (Female)]()
+8. [CO2 emissions]()
+9. [GDP]()
+10. [GDP Growth]()
+11. [GDP per capita]()
+12. [Inflation]()
+13. [GNI]()
+14. [GNI per Capita]()
